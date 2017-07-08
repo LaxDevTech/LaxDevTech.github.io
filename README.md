@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Architect theme
 
 [![Build Status](https://travis-ci.org/pages-themes/architect.svg?branch=master)](https://travis-ci.org/pages-themes/architect) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-architect.svg)](https://badge.fury.io/rb/jekyll-theme-architect)
@@ -90,3 +91,8 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
+=======
+# LaxDevTech.github.io
+repository for github pages for the parenting place
+7/8/17  - created repository - site atlaxdevtech.github.io
+>>>>>>> 25487d14f4d2bd24bd9ed96bcd7ece496a07adbc
